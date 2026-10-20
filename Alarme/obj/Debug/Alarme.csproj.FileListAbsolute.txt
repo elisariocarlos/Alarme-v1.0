@@ -1,0 +1,12 @@
+c:\users\elisário carlos\documents\visual studio 2012\Projects\Alarme\Alarme\bin\Debug\Alarme.exe.config
+c:\users\elisário carlos\documents\visual studio 2012\Projects\Alarme\Alarme\bin\Debug\Alarme.exe
+c:\users\elisário carlos\documents\visual studio 2012\Projects\Alarme\Alarme\bin\Debug\Alarme.pdb
+c:\users\elisário carlos\documents\visual studio 2012\Projects\Alarme\Alarme\obj\Debug\Alarme.csprojResolveAssemblyReference.cache
+c:\users\elisário carlos\documents\visual studio 2012\Projects\Alarme\Alarme\obj\Debug\Alarme.Form1.resources
+c:\users\elisário carlos\documents\visual studio 2012\Projects\Alarme\Alarme\obj\Debug\Alarme.Properties.Resources.resources
+c:\users\elisário carlos\documents\visual studio 2012\Projects\Alarme\Alarme\obj\Debug\Alarme.csproj.GenerateResource.Cache
+c:\users\elisário carlos\documents\visual studio 2012\Projects\Alarme\Alarme\obj\Debug\Alarme.exe
+c:\users\elisário carlos\documents\visual studio 2012\Projects\Alarme\Alarme\obj\Debug\Alarme.pdb
+C:\Users\Elisário Carlos\Desktop\                       \C#\Alarme\Alarme\bin\Debug\Alarme.exe.config
+C:\Users\Elisário Carlos\Desktop\                       \C#\Alarme\Alarme\obj\Debug\Alarme.exe
+C:\Users\Elisário Carlos\Desktop\                       \C#\Alarme\Alarme\obj\Debug\Alarme.pdb
